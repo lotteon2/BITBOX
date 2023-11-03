@@ -27,7 +27,8 @@
 - 프로젝트 관리: 'Github' 'Notion'
 <br />
 ## 3. 시스템 아키텍쳐
-![image](https://github.com/lotteon2/BITBOX/assets/81145399/8de2bac9-c738-4b51-aecc-a74de34d91c9)
+![image](https://github.com/lotteon2/BITBOX/assets/81145399/4185886d-c41c-4ff9-b0b2-66f06f198a57)
+
 <br />
 ## 4. 기능 설명
 <b>1. 알럼나이 - 교육생, 수료생</b>
