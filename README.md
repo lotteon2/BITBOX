@@ -18,6 +18,7 @@
 ## 1. 기획의도
 팀원 모두 준비생 단계에서 롯데e커머스 교육 관련 정보 부족으로 어려움을 겪었습니다. 교육생이 되고 나서도 선배들과의 소통이 부족하다 느꼈고 또한 학생 입장에서 출결과 성적을 확인할 수 없는 것에 불편함을 느꼈습니다. 따라서 위의 문제들을 해결하기 위해 커뮤니티 서비스 및 학생관리 서비스를 기획하게 되었습니다.
 <br />
+
 ## 2. 기술스택
 - Language : 'Java', 'TypeScript'
 - Front-End: 'React' 'Tailwind' 'Recoil' 'Zustand' 'ReactQuery' 'Antd' 'React-Quill'
@@ -26,12 +27,17 @@
 - Infra: 'AWSEC2' 'AWSS3' 'Jenkins' 'Docker' 'Zipkin' 'Prometheus' 'Grafana'
 - 프로젝트 관리: 'Github' 'Notion'
 <br />
+
 ## 3. 시스템 아키텍쳐
-<br />
+
+<br /> 
+
 ![image](https://github.com/lotteon2/BITBOX/assets/81145399/4185886d-c41c-4ff9-b0b2-66f06f198a57)
 
 <br />
+
 ## 4. 기능 설명
+
 <b>1. 알럼나이 - 교육생, 수료생</b>
     <br />- 전체 / 기수별 게시판
 
