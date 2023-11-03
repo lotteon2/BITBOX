@@ -27,6 +27,7 @@
 - 프로젝트 관리: 'Github' 'Notion'
 <br />
 ## 3. 시스템 아키텍쳐
+<br />
 ![image](https://github.com/lotteon2/BITBOX/assets/81145399/4185886d-c41c-4ff9-b0b2-66f06f198a57)
 
 <br />
