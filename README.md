@@ -65,20 +65,20 @@ https://shy-scribe-79f.notion.site/BITBOX-473fc7d91622402f82e71ff23881f84f?pvs=4
     <br />- 사유서 작성
 
 <b>7. 관리자</b>
-  5-1. 전체 관리자
+  <br />5-1. 전체 관리자
           <br />- 매니저 CRUD
           <br />- 교육생 관리 (CRUD)
           <br />- 출결 관리(RU)
           <br />- 사유서 관리 (RU)
           <br />- 성적 관리 (CRUD)
           <br />- 시험 관리 (CRUD)
-  5-2. 매니저
+  <br />5-2. 매니저
           <br />- 교육생 관리 (CRUD)
           <br />- 출결 관리(RU)
           <br />- 사유서 관리 (RU)
           <br />- 성적 관리 (CRUD)
           <br />- 시험 관리 (CRUD)
-  5-3. 강사
+  <br />5-3. 강사
           <br />- 출결 관리(RU)
           <br />- 성적 관리 (CRUD)
 
